@@ -1,0 +1,36 @@
+{
+  "thresholds": {
+    "interface": 0.7,
+    "product": 0.75,
+    "topic": 1.0
+  },
+  "target_auto_accuracy": 0.95,
+  "best_models": {
+    "interface": {
+      "model": "xgboost",
+      "params": {
+        "learning_rate": 0.04296748115469074,
+        "max_depth": 3,
+        "subsample": 0.6232334448672797,
+        "colsample_bytree": 0.9063233020424546
+      }
+    },
+    "topic": {
+      "model": "xgboost",
+      "params": {
+        "learning_rate": 0.20396887264773383,
+        "max_depth": 4,
+        "subsample": 0.6727299868828402,
+        "colsample_bytree": 0.4283831568974037
+      }
+    },
+    "product": {
+      "model": "catboost",
+      "params": {
+        "learning_rate": 0.11906379991333112,
+        "depth": 4,
+        "l2_leaf_reg": 1.4321698289111515
+      }
+    }
+  }
+}

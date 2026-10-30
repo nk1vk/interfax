@@ -1,0 +1,9 @@
+data/raw/*
+!data/**/.gitkeep
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+_old/
+results/
+catboost_info/

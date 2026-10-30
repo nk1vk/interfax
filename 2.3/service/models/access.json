@@ -1,0 +1,1043 @@
+{
+ "rd_user_0001": [],
+ "rd_user_0002": [],
+ "rd_user_0003": [],
+ "rd_user_0004": [],
+ "rd_user_0005": [],
+ "rd_user_0006": [],
+ "rd_user_0007": [],
+ "rd_user_0008": [],
+ "rd_user_0009": [],
+ "rd_user_0010": [],
+ "rd_user_0011": [],
+ "rd_user_0012": [],
+ "rd_user_0013": [],
+ "rd_user_0014": [],
+ "rd_user_0015": [],
+ "rd_user_0016": [],
+ "rd_user_0017": [],
+ "rd_user_0018": [],
+ "rd_user_0019": [],
+ "rd_user_0020": [],
+ "rd_user_0021": [],
+ "rd_user_0022": [],
+ "rd_user_0023": [],
+ "rd_user_0024": [],
+ "rd_user_0025": [
+  "RD_SCORE"
+ ],
+ "rd_user_0026": [
+  "RD_RISK"
+ ],
+ "rd_user_0027": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0028": [
+  "RD_SCORE"
+ ],
+ "rd_user_0029": [
+  "RD_SCORE"
+ ],
+ "rd_user_0030": [
+  "RDFOR"
+ ],
+ "rd_user_0031": [
+  "RDFOR"
+ ],
+ "rd_user_0032": [
+  "RD_RISK"
+ ],
+ "rd_user_0033": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0034": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0035": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0036": [
+  "RDFOR"
+ ],
+ "rd_user_0037": [
+  "RD_SCORE"
+ ],
+ "rd_user_0038": [
+  "RD_SCORE"
+ ],
+ "rd_user_0039": [
+  "RDFOR"
+ ],
+ "rd_user_0040": [
+  "RDFOR"
+ ],
+ "rd_user_0041": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0042": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0043": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0044": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0045": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0046": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0047": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0048": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0049": [
+  "RD_SCORE"
+ ],
+ "rd_user_0050": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0051": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0052": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0053": [
+  "RD_SCORE"
+ ],
+ "rd_user_0054": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0055": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0056": [
+  "RDFOR"
+ ],
+ "rd_user_0057": [
+  "RD_SCORE"
+ ],
+ "rd_user_0058": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0059": [
+  "RD_SCORE"
+ ],
+ "rd_user_0060": [
+  "RD_SCORE"
+ ],
+ "rd_user_0061": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0062": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0063": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0064": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0065": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0066": [
+  "RD_RISK"
+ ],
+ "rd_user_0067": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0068": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0069": [
+  "RDFOR"
+ ],
+ "rd_user_0070": [
+  "RD_SCORE"
+ ],
+ "rd_user_0071": [
+  "RD_RISK"
+ ],
+ "rd_user_0072": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0073": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0074": [
+  "RD_SCORE"
+ ],
+ "rd_user_0075": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0076": [
+  "RDFOR"
+ ],
+ "rd_user_0077": [
+  "RDFOR"
+ ],
+ "rd_user_0078": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0079": [
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0080": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0081": [
+  "RDFOR"
+ ],
+ "rd_user_0082": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0083": [
+  "RD_RISK"
+ ],
+ "rd_user_0084": [
+  "RD_RISK"
+ ],
+ "rd_user_0085": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0086": [
+  "RD_RISK"
+ ],
+ "rd_user_0087": [
+  "RD_SCORE"
+ ],
+ "rd_user_0088": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0089": [
+  "RDFOR"
+ ],
+ "rd_user_0090": [
+  "RD_RISK"
+ ],
+ "rd_user_0091": [
+  "RD_RISK"
+ ],
+ "rd_user_0092": [
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0093": [
+  "RD_SCORE"
+ ],
+ "rd_user_0094": [
+  "SPPI_TEST"
+ ],
+ "rd_user_0095": [
+  "RD_RISK"
+ ],
+ "rd_user_0096": [
+  "RD_RISK"
+ ],
+ "rd_user_0097": [
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0098": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0099": [
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0100": [
+  "RDFOR",
+  "RD_RISK",
+  "SPPI_TEST"
+ ],
+ "rd_user_0101": [
+  "RD_AFFILIATE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0102": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0103": [
+  "RDFOR",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0104": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0105": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK"
+ ],
+ "rd_user_0106": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "SPPI_TEST"
+ ],
+ "rd_user_0107": [
+  "RD_RISK",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0108": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0109": [
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0110": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0111": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0112": [
+  "RDFOR",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0113": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0114": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0115": [
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0116": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0117": [
+  "RD_RISK",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0118": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0119": [
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0120": [
+  "RDFOR",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0121": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0122": [
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0123": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0124": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0125": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0126": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "SPPI_TEST"
+ ],
+ "rd_user_0127": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0128": [
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0129": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0130": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0131": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0132": [
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0133": [
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0134": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0135": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0136": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0137": [
+  "RD_AFFILIATE",
+  "RD_SCORE"
+ ],
+ "rd_user_0138": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0139": [
+  "RD_AFFILIATE",
+  "RD_RISK"
+ ],
+ "rd_user_0140": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0141": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0142": [
+  "RDFOR",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0143": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0144": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "SPPI_TEST"
+ ],
+ "rd_user_0145": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0146": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0147": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0148": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0149": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0150": [
+  "RD_AFFILIATE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0151": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0152": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0153": [
+  "RD_AFFILIATE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0154": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0155": [
+  "RDFOR",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0156": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0157": [
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0158": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0159": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0160": [
+  "RD_RISK",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0161": [
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0162": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0163": [
+  "RDFOR",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0164": [
+  "RDFOR",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0165": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0166": [
+  "RD_RISK",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0167": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0168": [
+  "RDFOR",
+  "RD_SCORE"
+ ],
+ "rd_user_0169": [
+  "RD_AFFILIATE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0170": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0171": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0172": [
+  "RD_AFFILIATE",
+  "RD_SCORE"
+ ],
+ "rd_user_0173": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0174": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0175": [
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0176": [
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0177": [
+  "RD_AFFILIATE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0178": [
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0179": [
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0180": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE"
+ ],
+ "rd_user_0181": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0182": [
+  "RDFOR",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0183": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0184": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0185": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0186": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0187": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0188": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0189": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0190": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0191": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0192": [
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0193": [
+  "RDFOR",
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0194": [
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0195": [
+  "RD_RISK",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0196": [
+  "RDFOR",
+  "RD_AFFILIATE"
+ ],
+ "rd_user_0197": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0198": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0199": [
+  "RDFOR",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0200": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK"
+ ],
+ "rd_user_0201": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0202": [
+  "RDFOR",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0203": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0204": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0205": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "SPPI_TEST"
+ ],
+ "rd_user_0206": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0207": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0208": [
+  "RD_AFFILIATE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0209": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0210": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0211": [
+  "RD_RISK",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0212": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0213": [
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0214": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0215": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0216": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0217": [
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0218": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0219": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0220": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0221": [
+  "RD_RISK",
+  "SPPI_TEST"
+ ],
+ "rd_user_0222": [
+  "RD_RISK",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0223": [
+  "RD_RISK",
+  "SPPI_TEST"
+ ],
+ "rd_user_0224": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0225": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0226": [
+  "RD_AFFILIATE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0227": [
+  "RDFOR",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0228": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK"
+ ],
+ "rd_user_0229": [
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0230": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE"
+ ],
+ "rd_user_0231": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0232": [
+  "RDFOR",
+  "RD_SCORE"
+ ],
+ "rd_user_0233": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0234": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "SPPI_TEST"
+ ],
+ "rd_user_0235": [
+  "RDFOR",
+  "RD_RISK",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0236": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "SPPI_TEST"
+ ],
+ "rd_user_0237": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ],
+ "rd_user_0238": [
+  "RDFOR",
+  "RD_AFFILIATE",
+  "RD_SCORE"
+ ],
+ "rd_user_0239": [
+  "RD_AFFILIATE",
+  "RD_SCORE",
+  "RD_SOLVENCY"
+ ],
+ "rd_user_0240": [
+  "RD_AFFILIATE",
+  "RD_RISK",
+  "RD_SCORE",
+  "RD_SOLVENCY",
+  "SPPI_TEST"
+ ]
+}
